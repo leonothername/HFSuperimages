@@ -1,0 +1,22 @@
+{
+  "name": "HFSuperimages",
+  "version": "0.1.0",
+  "summary": "A short description of HFSuperimages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/raymondlau626@gmail.com/HFSuperimages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "raymondlau626@gmail.com": "36144651+leonyathowe@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/raymondlau626@gmail.com/HFSuperimages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFSuperimages/Classes/**/*"
+}

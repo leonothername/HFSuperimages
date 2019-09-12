@@ -1,0 +1,16 @@
+PODS:
+  - HFSuperimages (0.1.0)
+
+DEPENDENCIES:
+  - HFSuperimages (from `../`)
+
+EXTERNAL SOURCES:
+  HFSuperimages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HFSuperimages: f7af07cfac039e81cb5f74521adcc04420f560f9
+
+PODFILE CHECKSUM: bac1a8a8b1e9cabd25f4229187d0be736833d943
+
+COCOAPODS: 1.7.5
